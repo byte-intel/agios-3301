@@ -1,0 +1,52 @@
+::selection {
+    background: none;
+    color: #18CAE6;
+}
+::-moz-selection {
+    background: none;
+    color: #18CAE6;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-color: #262a33;
+}
+
+#container {
+    width: 100%;
+    margin-top: 30vh;
+    text-align: center;
+}
+
+#random {
+    max-width: 900px;
+    width: 65%;
+    margin: auto;
+    padding: 10px;
+    color: #313339;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 10px;
+    background-color: #1b1d24;
+    border: 1px solid #313339;
+    font-family: "Courier New";
+}
+
+#random:focus {
+    outline: 1px solid #18CAE6;   
+}
+
+@media only screen and (max-width: 800px) {
+    #random {
+        font-size: 30px;
+        padding: 15px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #random {
+        font-size: 20px;
+        padding: 15px;
+    }
+}
