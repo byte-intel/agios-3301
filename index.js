@@ -84,7 +84,7 @@ var Typer={
 }
 
 Typer.speed=3;
-Typer.file="[your-name].txt"; // add your own name here
+Typer.file="intel.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);
