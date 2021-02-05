@@ -1,16 +1,11 @@
 <span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">#</span> cd Latest<!-- laglaglaglaglaglag -->About_Us
 
 <span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">/Latest#</span> cat <!-- laglaglaglaglaglaglaglaglag -->intel.txt
-<br/><br/><span>
- _______  __    _  _______  _______  _______ 
-|       ||  |  | ||   _   ||       ||       |
-|_     _||   |_| ||  |_|  ||   _   ||  _____|
-  |   |  |       ||       ||  | |  || |_____ 
-  |   |  |  _    ||       ||  |_|  ||_____  |
-  |   |  | | |   ||   _   ||       | _____| |
-  |___|  |_|  |__||__| |__||_______||_______|
-                                             
-</span><br/>
+<br/><br/>
+
+ASCII here
+
+<br/>
 [*] What is the meaning of "<span id="k">53vD2GY56!</span>". <!-- sjkfhskjf -->
 
 This is some text to test out the terminal...<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>testing, testing, 1... 2... 3... this is how the terminal would look.</p>
