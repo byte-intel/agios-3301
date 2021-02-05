@@ -8,9 +8,11 @@
  | __| '_ \ / _` |/ _ \/ __|
  | |_| | | | (_| | (_) \__ \
   \__|_| |_|\__,_|\___/|___/
-                            
+                             
                             
 <br/>
-My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
+[*] What is the meaning of "<span id="k">53vD2GY56!</span>". <!-- sjkfhskjf -->
 
 This is some text to test out the terminal...<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>testing, testing, 1... 2... 3... this is how the terminal would look.</p>
+
+<span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">#</span><!-- timetimetimetimetimetimetime--> exit
