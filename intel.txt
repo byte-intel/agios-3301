@@ -1,6 +1,6 @@
-<span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">#</span> cd Latest<!-- laglaglaglaglaglag -->About_Us
+<span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">#</span> cd Latest<!-- 01101010001010110101000101 -->
 
-<span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">/Latest#</span> cat <!-- laglaglaglaglaglaglaglaglag -->intel.txt
+<span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">/Latest#</span> cat <!-- 01101010001010110101000101 -->intel.txt
 <br/><br/>
 
  _                         
@@ -15,4 +15,4 @@
 
 This is some text to test out the terminal...<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>testing, testing, 1... 2... 3... this is how the terminal would look.</p>
 
-<span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">#</span><!-- timetimetimetimetimetimetime--> exit
+<span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">#</span><!-- 01101010001010110101000101 --> exit
