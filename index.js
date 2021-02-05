@@ -82,3 +82,16 @@ var Typer={
 			this.write("|"); // else write it
 	}
 }
+
+Typer.speed=3;
+Typer.file="[your-name].txt"; // add your own name here
+Typer.init();
+ 
+var timer = setInterval("t();", 30);
+function t() {
+	Typer.addText({"keyCode": 123748});
+	
+	if (Typer.index > Typer.text.length) {
+		clearInterval(timer);
+	}
+}
