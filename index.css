@@ -1,3 +1,6 @@
+body {
+	background-color: #000;
+}
 
 #console {
 	font-family: courier, monospace;
