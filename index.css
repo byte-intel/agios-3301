@@ -2,8 +2,9 @@ body {
 	background-color: #000;
 }
 
-#window {
+.window {
 	height: 700px;
+	max-width: 600px;
 	background-color: #2a2e39;
 	border-radius: 4px;
 	margin: 0 auto;
