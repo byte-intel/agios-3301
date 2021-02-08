@@ -1,5 +1,5 @@
 <span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">#</span> cd Latest<!-- 01101010001010110101000101 -->
-<span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">/Latest#</span> cat <!-- 01101010001010110101000101 -->intel.txt
+<span id="a">root@tnaos</span>:<span id="tilde">~</span><span id="prompt">/Latest#</span> cat <!-- 011010100010101101010001010100101001010010101010101101001 -->intel.txt
 <br/>
 
  &nbsp;_                         
