@@ -83,7 +83,7 @@ var Typer={
 	}
 }
 
-Typer.speed=3;
+Typer.speed=5;
 Typer.file="intel.txt";
 Typer.init();
  
