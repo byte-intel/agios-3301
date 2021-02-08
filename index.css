@@ -1,5 +1,5 @@
 body {
-	padding-top: 100px;
+	padding-top: 80px;
 	background-color: #2a3935;
 }
 
@@ -9,7 +9,11 @@ body {
 	font-size:16px;
 }
 
-@media screen and (max-width: 600px) {}
+@media screen and (max-width: 600px) {
+	#console {
+		font-size: 14px;
+	}
+}
 
 #a {
 	color: #0f0;
