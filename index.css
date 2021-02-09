@@ -1,7 +1,6 @@
 body {
 	padding-top: 80px;
-	background-color: black;
-	/*background-color: #2a3935;*/
+	background-color: #2A2E39;
 }
 
 #console {
@@ -43,7 +42,7 @@ body {
 .window {
 	height: 400px;
 	max-width: 600px;
-	background-color: #2a2e39;
+	background-color: rgba(0,0,0,0.3);
 	border-radius: 4px;
 	margin: 0 auto;
 	padding: 15px;
