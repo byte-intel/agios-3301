@@ -6,7 +6,8 @@ body {
 
 #console {
 	font-family: courier, monospace;
-	color: #fff;
+	color: #686868;
+	/*color: #fff;*/
 	font-size:16px;
 }
 
@@ -17,7 +18,8 @@ body {
 }
 
 #a {
-	color: #0f0;
+	color: #00ff9c;
+	/*color: #0f0;*/
 }
 
 #prompt {
@@ -49,7 +51,7 @@ body {
 	background-color: #101116;
 	/*background-color: rgba(0,0,0,0.3);*/
 	border: 1px solid #333;
-	box-shadow: 0 4px 8px 0 rgbs(51, 51, 51, 0.3);
+	box-shadow: 0 4px 8px 0 rgba(51, 51, 51, 0.3);
 	border-radius: 4px;
 	margin: 0 auto;
 	padding: 15px;
